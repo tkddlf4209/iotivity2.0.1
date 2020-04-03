@@ -1,0 +1,27 @@
+var searchData=
+[
+  ['nsacceptsubscription',['NSAcceptSubscription',['../_n_s_provider_interface_8h.html#a964bc995b9f977e3980725e48b279c2a',1,'NSProviderInterface.h']]],
+  ['nsconsumerenableremoteservice',['NSConsumerEnableRemoteService',['../_n_s_consumer_interface_8h.html#aaa1f3ab429f71d49c5acc32b276ef91a',1,'NSConsumerInterface.h']]],
+  ['nsconsumergetprovider',['NSConsumerGetProvider',['../_n_s_consumer_interface_8h.html#a0035acf46aa67b1f9fbdea723d83b8f9',1,'NSConsumerInterface.h']]],
+  ['nsconsumergettopiclist',['NSConsumerGetTopicList',['../_n_s_consumer_interface_8h.html#a2efa6df13816ad578b1d0fd5ffb90c17',1,'NSConsumerInterface.h']]],
+  ['nsconsumersendsyncinfo',['NSConsumerSendSyncInfo',['../_n_s_consumer_interface_8h.html#a742db94a34de55928168ef516f25a7e4',1,'NSConsumerInterface.h']]],
+  ['nsconsumerupdatetopiclist',['NSConsumerUpdateTopicList',['../_n_s_consumer_interface_8h.html#a8ba6b412fcf7481ff7bba577276dee1f',1,'NSConsumerInterface.h']]],
+  ['nscreatemessage',['NSCreateMessage',['../_n_s_provider_interface_8h.html#a96a26c9df6bd5d7b3285d24a43532b4d',1,'NSProviderInterface.h']]],
+  ['nsproviderdisableremoteservice',['NSProviderDisableRemoteService',['../_n_s_provider_interface_8h.html#ac76ad6b4dbf8308d6b18f0c3ed15e1f7',1,'NSProviderInterface.h']]],
+  ['nsproviderenableremoteservice',['NSProviderEnableRemoteService',['../_n_s_provider_interface_8h.html#a91a26a7afc9823927e002320c9f70d0c',1,'NSProviderInterface.h']]],
+  ['nsprovidergetconsumertopics',['NSProviderGetConsumerTopics',['../_n_s_provider_interface_8h.html#aae5b6601198a717b59cab3ae7d347824',1,'NSProviderInterface.h']]],
+  ['nsprovidergettopics',['NSProviderGetTopics',['../_n_s_provider_interface_8h.html#a7cb008980702cf5606b5b4ae80ffa7df',1,'NSProviderInterface.h']]],
+  ['nsproviderregistertopic',['NSProviderRegisterTopic',['../_n_s_provider_interface_8h.html#a8889720700850d243413c69d50bbea86',1,'NSProviderInterface.h']]],
+  ['nsprovidersendsyncinfo',['NSProviderSendSyncInfo',['../_n_s_provider_interface_8h.html#aeb2797c11774e25d387e55a05016af54',1,'NSProviderInterface.h']]],
+  ['nsprovidersetconsumertopic',['NSProviderSetConsumerTopic',['../_n_s_provider_interface_8h.html#afe99beb6f83ef78fa43ef05fff27ca0b',1,'NSProviderInterface.h']]],
+  ['nsproviderunregistertopic',['NSProviderUnregisterTopic',['../_n_s_provider_interface_8h.html#afb08fa2cb3b22956961f2f92029d499f',1,'NSProviderInterface.h']]],
+  ['nsproviderunsetconsumertopic',['NSProviderUnsetConsumerTopic',['../_n_s_provider_interface_8h.html#ae85d91851a53b1d1b44296924206ee1f',1,'NSProviderInterface.h']]],
+  ['nsrescanprovider',['NSRescanProvider',['../_n_s_consumer_interface_8h.html#a53f2f0fa5f6500e447f01878a1728ec3',1,'NSConsumerInterface.h']]],
+  ['nssendmessage',['NSSendMessage',['../_n_s_provider_interface_8h.html#a309f063f8cd9cd1b5ecc1f217859482c',1,'NSProviderInterface.h']]],
+  ['nsstartconsumer',['NSStartConsumer',['../_n_s_consumer_interface_8h.html#a597528da50a67da5f0d42d80e6de3e66',1,'NSConsumerInterface.h']]],
+  ['nsstartprovider',['NSStartProvider',['../_n_s_provider_interface_8h.html#a82f1f313f9f2291da5e76f84621f1c44',1,'NSProviderInterface.h']]],
+  ['nsstopconsumer',['NSStopConsumer',['../_n_s_consumer_interface_8h.html#acce10cc790ad635615f0a771b5046f2e',1,'NSConsumerInterface.h']]],
+  ['nsstopprovider',['NSStopProvider',['../_n_s_provider_interface_8h.html#a8c6a3a57de54deddabd486930a32653f',1,'NSProviderInterface.h']]],
+  ['nssubscribe',['NSSubscribe',['../_n_s_consumer_interface_8h.html#a2cda761218504ab4b4d9caf4b3343a9f',1,'NSConsumerInterface.h']]],
+  ['nsunsubscribe',['NSUnsubscribe',['../_n_s_consumer_interface_8h.html#adb1bcc7a2f6473ac2a57197b53a2a76e',1,'NSConsumerInterface.h']]]
+];

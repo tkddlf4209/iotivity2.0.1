@@ -1,0 +1,9 @@
+IoTivity 2.0.1
+
+Release Date: Tuesday, March 19  2019
+
+IoTivity 2.0.1 is a certifiable implementation of the Open Connectivity Foundation (OCF) 2.0.1 Specifications.  "Certifiable" means that IoTivity 2.0.1 has been tested to pass the OCF Conformance Test Tool (CTT) test suite specific to the OCF 2.0.1 Specifications.
+
+Note that certifying an actual OCF Device using IoTivity 2.0.1 as a basis still requires further adaptation of the IoTivity implementation.  Details can be found from the OCF Certification Program at openconnectivity.org.
+
+For more information, including new features, and known issues with this release, please see IoTivity.org.

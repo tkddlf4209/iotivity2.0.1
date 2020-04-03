@@ -1,0 +1,17 @@
+var searchData=
+[
+  ['fail',['FAIL',['../namespace_o_i_c_1_1_service.html#a6af0f4f2590638cd54c68f80466d8fdcac2759effffc94bb9acc71d69fe3e8a1f',1,'OIC::Service']]],
+  ['family',['family',['../struct_o_c_endpoint_payload.html#ac446e9e66b3ecd4fa4647e79705954e8',1,'OCEndpointPayload']]],
+  ['findcallback',['FindCallback',['../namespace_o_c.html#ad823e3b8335e73e26d4b9f1e992d0c47',1,'OC']]],
+  ['finddevicecallback',['FindDeviceCallback',['../namespace_o_c.html#a5ff75172ba2ca5c6dfa89d45bee02127',1,'OC']]],
+  ['finderrorcallback',['FindErrorCallback',['../namespace_o_c.html#a9713b1cf91c4fe9ead19fa446d88660b',1,'OC']]],
+  ['findplatformcallback',['FindPlatformCallback',['../namespace_o_c.html#a9aca730c6d62ee6a017f14264eb85558',1,'OC']]],
+  ['findreslistcallback',['FindResListCallback',['../namespace_o_c.html#a90102e8fab141e8afab46994e24223a4',1,'OC']]],
+  ['findresource',['findResource',['../namespace_o_c_1_1_o_c_platform.html#a96b3c0ceb833135936fa6204ea569a8a',1,'OC::OCPlatform::findResource(const std::string &amp;host, const std::string &amp;resourceURI, OCConnectivityType connectivityType, FindCallback resourceHandler)'],['../namespace_o_c_1_1_o_c_platform.html#a37628d9e012c004e5d3a408dcd1a66da',1,'OC::OCPlatform::findResource(const std::string &amp;host, const std::string &amp;resourceURI, OCConnectivityType connectivityType, FindCallback resourceHandler, QualityOfService QoS)'],['../namespace_o_c_1_1_o_c_platform.html#a7c2b31591e96c5acda7dfbe59e87583e',1,'OC::OCPlatform::findResource(const std::string &amp;host, const std::string &amp;resourceURI, OCConnectivityType connectivityType, FindCallback resourceHandler, FindErrorCallback errorHandler)'],['../namespace_o_c_1_1_o_c_platform.html#ac1de90e0b566f9da7afff8a04cd27961',1,'OC::OCPlatform::findResource(const std::string &amp;host, const std::string &amp;resourceURI, OCConnectivityType connectivityType, FindCallback resourceHandler, FindErrorCallback errorHandler, QualityOfService QoS)']]],
+  ['findresourcelist',['findResourceList',['../namespace_o_c_1_1_o_c_platform.html#a39b96e7a7d141d7d550776edb3a789a8',1,'OC::OCPlatform::findResourceList(const std::string &amp;host, const std::string &amp;resourceURI, OCConnectivityType connectivityType, FindResListCallback resourceHandler, QualityOfService QoS=QualityOfService::LowQos)'],['../namespace_o_c_1_1_o_c_platform.html#ac02e0c145403bf2cba561e39dc4ae031',1,'OC::OCPlatform::findResourceList(const std::string &amp;host, const std::string &amp;resourceURI, OCConnectivityType connectivityType, FindResListCallback resourceHandler, FindErrorCallback errorHandler, QualityOfService QoS=QualityOfService::LowQos)']]],
+  ['firmwareversion',['firmwareVersion',['../struct_o_c_platform_info.html#a28a46d6d87f853d499c4bddcd183d196',1,'OCPlatformInfo']]],
+  ['flags',['flags',['../struct_o_c_dev_addr.html#a616f100772a7ef0695e8b473d9d463be',1,'OCDevAddr']]],
+  ['formresourcerequest',['formResourceRequest',['../class_o_c_1_1_o_c_resource_request.html#ab5cfa2de5ad1690c11cef2a8533d4efe',1,'OC::OCResourceRequest::formResourceRequest()'],['../_o_c_resource_request_8h.html#ab491d006d2ebb01c9dc4f56b345fd425',1,'formResourceRequest():&#160;OCResourceRequest.h']]],
+  ['fromocrepresentation',['fromOCRepresentation',['../class_o_i_c_1_1_service_1_1_r_c_s_representation.html#aadc9e283e141f9f88a7e6d32b0ad5dcf',1,'OIC::Service::RCSRepresentation']]],
+  ['fromocresource',['fromOCResource',['../class_o_i_c_1_1_service_1_1_r_c_s_remote_resource_object.html#af95f65028faaf45e073ddce9b32db0be',1,'OIC::Service::RCSRemoteResourceObject']]]
+];

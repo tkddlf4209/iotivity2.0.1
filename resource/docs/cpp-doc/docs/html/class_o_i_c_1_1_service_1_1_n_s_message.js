@@ -1,0 +1,35 @@
+var class_o_i_c_1_1_service_1_1_n_s_message =
+[
+    [ "NSMessageType", "class_o_i_c_1_1_service_1_1_n_s_message.html#afc5deccd9ac492dc5cf49797596fbc89", [
+      [ "NS_MESSAGE_ALERT", "class_o_i_c_1_1_service_1_1_n_s_message.html#afc5deccd9ac492dc5cf49797596fbc89a53af77a6d937410e6c2541fa6392cfc6", null ],
+      [ "NS_MESSAGE_NOTICE", "class_o_i_c_1_1_service_1_1_n_s_message.html#afc5deccd9ac492dc5cf49797596fbc89acad1eabb3fa758e24782cfd77bd572e4", null ],
+      [ "NS_MESSAGE_EVENT", "class_o_i_c_1_1_service_1_1_n_s_message.html#afc5deccd9ac492dc5cf49797596fbc89a53a9947a77d2da4f2a64895a05cd8e8d", null ],
+      [ "NS_MESSAGE_INFO", "class_o_i_c_1_1_service_1_1_n_s_message.html#afc5deccd9ac492dc5cf49797596fbc89a1a79e3b9e1518acdf54dc3cfd9e6a438", null ],
+      [ "NS_MESSAGE_WARNING", "class_o_i_c_1_1_service_1_1_n_s_message.html#afc5deccd9ac492dc5cf49797596fbc89aa13ef721ac4f28e79fd9d1055a1b34e2", null ]
+    ] ],
+    [ "NSMessage", "class_o_i_c_1_1_service_1_1_n_s_message.html#acee24fa95cf56d5411235579c3b4627d", null ],
+    [ "NSMessage", "class_o_i_c_1_1_service_1_1_n_s_message.html#ac31576f8fd3e73f537cde5b08051b6b2", null ],
+    [ "NSMessage", "class_o_i_c_1_1_service_1_1_n_s_message.html#ac5a38a058d2de9bbe9378331096f5a2b", null ],
+    [ "~NSMessage", "class_o_i_c_1_1_service_1_1_n_s_message.html#abc2209c3042e0d2678f794ba130e7a7d", null ],
+    [ "getContentText", "class_o_i_c_1_1_service_1_1_n_s_message.html#a4fb7efddf5dda3c7a7e59ef1a13c64ea", null ],
+    [ "getExtraInfo", "class_o_i_c_1_1_service_1_1_n_s_message.html#ac5d008d1258e56248adeb8fb48414f17", null ],
+    [ "getMediaContents", "class_o_i_c_1_1_service_1_1_n_s_message.html#ab9ba88f2f2a04e99d0ef56e0bdef1542", null ],
+    [ "getMessageId", "class_o_i_c_1_1_service_1_1_n_s_message.html#a749b5bdb5d4c72ce09464e94b6bd0ede", null ],
+    [ "getProviderId", "class_o_i_c_1_1_service_1_1_n_s_message.html#a7721004f8c9dc3a03a585fce489c75c3", null ],
+    [ "getSourceName", "class_o_i_c_1_1_service_1_1_n_s_message.html#acb2715c6b0a08467a69af9b4036343a8", null ],
+    [ "getTime", "class_o_i_c_1_1_service_1_1_n_s_message.html#aa33c95e53b94f9dc0ed82abb28a78f63", null ],
+    [ "getTitle", "class_o_i_c_1_1_service_1_1_n_s_message.html#a247de18d66e0fdc033758ce01b8cb868", null ],
+    [ "getTopic", "class_o_i_c_1_1_service_1_1_n_s_message.html#abe5a892ce50ddcc126eabd43d0b4334a", null ],
+    [ "getTTL", "class_o_i_c_1_1_service_1_1_n_s_message.html#a6f37ad250e633faf36ff0317744bfdc9", null ],
+    [ "getType", "class_o_i_c_1_1_service_1_1_n_s_message.html#a37bb2fa26e7d73b541e07b762a8a4998", null ],
+    [ "operator=", "class_o_i_c_1_1_service_1_1_n_s_message.html#a38cbd807e9ddce82b53da05560370401", null ],
+    [ "setContentText", "class_o_i_c_1_1_service_1_1_n_s_message.html#af4eb3d3805506c8d12d2b5b41f3fff64", null ],
+    [ "setExtraInfo", "class_o_i_c_1_1_service_1_1_n_s_message.html#a1632362a1a0918f7855427cc72402073", null ],
+    [ "setMediaContents", "class_o_i_c_1_1_service_1_1_n_s_message.html#af0a6560b5dc0516404f6a06c9bddcef7", null ],
+    [ "setSourceName", "class_o_i_c_1_1_service_1_1_n_s_message.html#a05861e4fa6dc5198fe616464e10405e8", null ],
+    [ "setTime", "class_o_i_c_1_1_service_1_1_n_s_message.html#aa2acc1caddb4916af007495592aed37e", null ],
+    [ "setTitle", "class_o_i_c_1_1_service_1_1_n_s_message.html#a313ddb73691e0cdb107a9f460a60166d", null ],
+    [ "setTopic", "class_o_i_c_1_1_service_1_1_n_s_message.html#a91ecfcdda20dac8dd2563532109055a2", null ],
+    [ "setTTL", "class_o_i_c_1_1_service_1_1_n_s_message.html#a8dde1b0c26c78f9feb65a84df6407b04", null ],
+    [ "setType", "class_o_i_c_1_1_service_1_1_n_s_message.html#a07677e0861a69845c646bd1e46fd3f2d", null ]
+];

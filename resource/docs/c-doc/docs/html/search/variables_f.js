@@ -1,0 +1,25 @@
+var searchData=
+[
+  ['rcvdvendorspecificheaderoptions',['rcvdVendorSpecificHeaderOptions',['../struct_o_c_entity_handler_request.html#ab5fd096b0b3861d5cf5a4b48a0be1479',1,'OCEntityHandlerRequest::rcvdVendorSpecificHeaderOptions()'],['../struct_o_c_client_response.html#afed310bd0121afa5b2971d0f3bcf7a42',1,'OCClientResponse::rcvdVendorSpecificHeaderOptions()']]],
+  ['read',['read',['../struct_o_c_persistent_storage.html#ad0e2a1bf9772916fc71ce2d6faa6a39d',1,'OCPersistentStorage']]],
+  ['redirecturi',['redirectUri',['../struct_oic_cloud.html#ac6c63f6e015d0e7317c8b8720877f4ad',1,'OicCloud']]],
+  ['refreshtoken',['refreshToken',['../structsession__t.html#a12c711ac60666541fa7a12c75f26eaf3',1,'session_t']]],
+  ['rel',['rel',['../struct_o_c_resource_payload.html#a7d11cd9b0bb9945533abeb53d599bd25',1,'OCResourcePayload']]],
+  ['remoteid',['remoteId',['../struct_o_c_dev_addr.html#acbad5f63052cf41ea71cf5653f2df64f',1,'OCDevAddr::remoteId()'],['../struct_c_a_endpoint__t.html#aae4a69989ec65c6e4ffe2e7a5f9c253b',1,'CAEndpoint_t::remoteId()']]],
+  ['reptype',['repType',['../struct_o_c_rep_payload.html#a975abf7c6f2c97e5cc2923677a285180',1,'OCRepPayload']]],
+  ['requesthandle',['requestHandle',['../struct_o_c_entity_handler_request.html#acbb41547bdb198d3f8a29f296f2bf469',1,'OCEntityHandlerRequest::requestHandle()'],['../struct_o_c_entity_handler_response.html#a3f571ea66d2c72cf78c99f0fe21dcd28',1,'OCEntityHandlerResponse::requestHandle()']]],
+  ['requesthistory',['requestHistory',['../struct_c_a_globals__t_1_1calayer.html#a1e3937853a5dae0d5199611f4dd90a74',1,'CAGlobals_t::calayer']]],
+  ['res',['res',['../struct_o_c_p_m_result.html#ae0262d239d270c6771f86aec343d7c13',1,'OCPMResult::res()'],['../struct_o_c_p_m_get_csr_result.html#a488fe6926fdf9e304d129d5ee6900f6a',1,'OCPMGetCsrResult::res()'],['../struct_o_c_p_m_get_sp_result.html#a5b4aa40d0bff1d2a50dccd13e306f94b',1,'OCPMGetSpResult::res()'],['../struct_o_c_p_m_get_roles_result.html#ae96d15970bda462a57aa8273a0885fbf',1,'OCPMGetRolesResult::res()']]],
+  ['resarr',['resArr',['../struct_cloud_data.html#a1fa68f7ff0b202d84620209dab1c07ad',1,'CloudData']]],
+  ['resource',['resource',['../struct_o_c_entity_handler_request.html#abf4e21b81325371446fc248f506f35f5',1,'OCEntityHandlerRequest']]],
+  ['resourcehandle',['resourceHandle',['../struct_o_c_entity_handler_response.html#a49339960671a2057a57909dd03ea379b',1,'OCEntityHandlerResponse']]],
+  ['resources',['resources',['../struct_o_c_discovery_payload.html#af65d4d2d1c536f92b586fa111f9bc9dd',1,'OCDiscoveryPayload::resources()'],['../structcloud_ace.html#a423c3398e44a116224c5b1c027cbe871',1,'cloudAce::resources()']]],
+  ['resourcesecurity',['resourceSecurity',['../struct_n_s_provider_config.html#a28a542b8beecd8ded231a98e625d4db4',1,'NSProviderConfig']]],
+  ['resourcetype',['resourceType',['../struct_o_c_presence_payload.html#a7d2c8b48fc0e9c4ffcf2278768c8053e',1,'OCPresencePayload']]],
+  ['resourceuri',['resourceUri',['../struct_o_c_client_response.html#aba05320fe1ea6bd09f1b72ae5a2c08e9',1,'OCClientResponse::resourceUri()'],['../struct_o_c_entity_handler_response.html#af11b1913dca0714a5f71cba1a4bfcedc',1,'OCEntityHandlerResponse::resourceUri()'],['../struct_c_a_info__t.html#ad92c8e243f94bbeaa71d79eea40c4c90',1,'CAInfo_t::resourceUri()'],['../struct_http_request__t.html#a6829e5b635db86991aaabf89cb6a3908',1,'HttpRequest_t::resourceUri()']]],
+  ['result',['result',['../struct_o_c_client_response.html#a0cdc9f60ffb41713ebe1ea8f3a97f6b6',1,'OCClientResponse::result()'],['../struct_c_a_response_info__t.html#a3ead465edeabe000b438541dfe4262e2',1,'CAResponseInfo_t::result()'],['../struct_c_a_error_info__t.html#adb3c9d85a41e40594f6373c2ad672cdf',1,'CAErrorInfo_t::result()']]],
+  ['resultcallback',['resultCallback',['../struct_cloud_data.html#a8a6be4a08a7e6d02c06351ae782314bf',1,'CloudData']]],
+  ['routecost',['routeCost',['../struct_r_t_m_gateway_entry__t.html#aa57547fed110ac0dc5e712a17dddacbb',1,'RTMGatewayEntry_t']]],
+  ['routedata',['routeData',['../struct_o_c_dev_addr.html#a0f857631980bef68bd126bf72c20aae2',1,'OCDevAddr']]],
+  ['rowner',['rowner',['../struct_o_c_d_p_dev.html#af93c788286891bc8c26a0d9621769416',1,'OCDPDev']]]
+];

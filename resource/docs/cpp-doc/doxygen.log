@@ -1,0 +1,10 @@
+/home/nhs/git/iotivity/resource/include/OCResourceResponse.h:151: warning: The following parameters of OC::OCResourceResponse::setResourceRepresentation(OCRepresentation &rep, std::string iface, bool isCollectionResource) are not documented:
+  parameter 'isCollectionResource'
+/home/nhs/git/iotivity/resource/include/OCResourceResponse.h:164: warning: The following parameters of OC::OCResourceResponse::setResourceRepresentation(OCRepresentation &&rep, std::string iface, bool isCollectionResource) are not documented:
+  parameter 'isCollectionResource'
+/home/nhs/git/iotivity/resource/include/OCProvisioningManager.hpp:480: warning: argument 'displayNumCB' of command @param is not found in the argument list of OC::OCSecure::registerDisplayNumCallback(void *ctx)
+/home/nhs/git/iotivity/resource/include/OCProvisioningManager.hpp:486: warning: The following parameters of OC::OCSecure::registerDisplayNumCallback(void *ctx) are not documented:
+  parameter 'ctx'
+/home/nhs/git/iotivity/resource/include/OCProvisioningManager.hpp:495: warning: argument 'userConfirmCB' of command @param is not found in the argument list of OC::OCSecure::registerUserConfirmCallback(void *ctx)
+/home/nhs/git/iotivity/resource/include/OCProvisioningManager.hpp:500: warning: The following parameters of OC::OCSecure::registerUserConfirmCallback(void *ctx) are not documented:
+  parameter 'ctx'

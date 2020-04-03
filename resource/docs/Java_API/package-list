@@ -1,0 +1,10 @@
+org.iotivity.base
+org.iotivity.ca
+org.iotivity.service
+org.iotivity.service.client
+org.iotivity.service.easysetup.mediator
+org.iotivity.service.ns.common
+org.iotivity.service.ns.consumer
+org.iotivity.service.ns.provider
+org.iotivity.service.resourcecontainer
+org.iotivity.service.server
